@@ -1,5 +1,5 @@
 {
-  "name": "@whiskeysockets/baileys",
+  "name": "@Wilsmac/baileys",
   "version": "6.5.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/Wilsmac/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:Wilsmac/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Wilsmac",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -51,7 +51,6 @@
     "libphonenumber-js": "^1.10.20",
     "libsignal": "github:adiwajshing/libsignal-node",
     "music-metadata": "^7.12.3",
-    "node-cache": "^5.1.2",
     "pino": "^7.0.0",
     "protobufjs": "^6.11.3",
     "uuid": "^9.0.0",
